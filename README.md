@@ -53,5 +53,5 @@ We encourage you to explore these resources to enhance your Dify experience! �
 
 ☝️ My friend riino has also created a Word annotation program based on this Dify Chatflow. If you input a Word document, it will automatically generate annotations to guide you in revising the Word document. You can view the details here:[ Notion Introduction](https://gist.github.com/sorphwer/7dc0558cd88af0c15b113b29acdb96c9)
 
-WeChat: Sorphwer
-Personal website: riino.site
+- WeChat: Sorphwer
+- Personal website: riino.site
