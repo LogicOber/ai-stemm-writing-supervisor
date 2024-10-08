@@ -23,6 +23,8 @@ This sophisticated tool employs a range of techniques to transform your initial 
 
 [![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/CBGKRS?referralCode=LogicOber)
 
+`👆 Click the button above to deploy to Zeabur with one click, but you need to manually add an environment variable named VITE_API_KEY, with the value being the API_Key of your Dify App`
+
 ## UI Project Description
 
 This project includes a simple demo UI, collaboratively developed with Bolt.new. The interface allows for easy connection to Dify Apps and serves as a foundation for customization.
