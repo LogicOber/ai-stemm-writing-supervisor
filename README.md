@@ -55,3 +55,5 @@ We encourage you to explore these resources to enhance your Dify experience! ðŸš
 
 - WeChat: Sorphwer
 - Personal website: riino.site
+
+<img src="./images/image_3.png" alt="Dify.ai STEMM Writing Supervisor Logo" width="390"/>
