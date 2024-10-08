@@ -51,10 +51,10 @@ We encourage you to explore these resources to enhance your Dify experience! �
 
 ## One More Thing
 
-☝️ My friend riino has also created a Word annotation program based on this Dify Chatflow. If you input a Word document, it will automatically generate annotations to guide you in revising the Word document. You can view the details here:[ Notion Introduction](https://gist.github.com/sorphwer/7dc0558cd88af0c15b113b29acdb96c9)
+☝️ My friend riino has also created a Word annotation program based on this Dify Chatflow. If you input a Word document, it will automatically generate annotations to guide you in revising the Word document. You can view the details here: [Github Gist](https://gist.github.com/sorphwer/7dc0558cd88af0c15b113b29acdb96c9)
 
 - WeChat: Sorphwer
-- Personal website: riino.site
+- Personal website: https://riino.site
 
 <img src="./images/image_3.png" alt="Dify.ai STEMM Writing Supervisor Logo"/>
 
@@ -62,4 +62,4 @@ We encourage you to explore these resources to enhance your Dify experience! �
 
 - Thanks to -> bolt.new!
 - [Lyson Ober](https://x.com/lyson_ober)
-- [Riiino](https://x.com/riino)
+- [Sorphwer](https://x.com/sorphwer)
