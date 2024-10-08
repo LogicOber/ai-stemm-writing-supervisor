@@ -1,10 +1,10 @@
 # Dify.ai STEMM Writing Supervisor
 
-<img src="./images/image1.png" alt="Dify.ai STEMM Writing Supervisor Logo"/>
+<img src="./images/image_1.png" alt="Dify.ai STEMM Writing Supervisor Logo"/>
 
 ---
 
-<img src="./images/image2.png" alt="Dify.ai STEMM Writing Supervisor Logo"/>
+<img src="./images/image_2.png" alt="Dify.ai STEMM Writing Supervisor Logo"/>
 
 ## STEMM Writing Enhancement
 
@@ -56,7 +56,7 @@ We encourage you to explore these resources to enhance your Dify experience! ðŸš
 - WeChat: Sorphwer
 - Personal website: riino.site
 
-<img src="./images/image3.png" alt="Dify.ai STEMM Writing Supervisor Logo"/>
+<img src="./images/image_3.png" alt="Dify.ai STEMM Writing Supervisor Logo"/>
 
 ## Contributors
 
