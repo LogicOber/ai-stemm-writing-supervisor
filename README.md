@@ -17,8 +17,11 @@ Key features include:
 - Improved paragraph cohesion using substantive nouns
 - Refinement of topic sentences
 - Implementation of complex strategies to enhance STEMM writing quality
+- Reader-friendly
 
 This sophisticated tool employs a range of techniques to transform your initial draft into a clear, concise, and academically sound piece of writing.
+
+[![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/CBGKRS?referralCode=LogicOber)
 
 ## UI Project Description
 
